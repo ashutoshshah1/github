@@ -12,7 +12,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/aparcekarl/Subdomain-Takeover"
+      "url": "https://github.com/ashutoshshah1/github/"
     }
   ]
 }
