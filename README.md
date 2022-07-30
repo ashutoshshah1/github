@@ -1,2 +1,2 @@
 #Oooopppppss!!!  Wrong Site
-Shopify team Needs to Fix this
+kucoin team Needs to Fix this
